@@ -1,0 +1,11 @@
+C:\dotNet_Training\EcommerceSolution\CatalogLib\bin\Debug\net8.0\CatalogLib.deps.json
+C:\dotNet_Training\EcommerceSolution\CatalogLib\bin\Debug\net8.0\CatalogLib.dll
+C:\dotNet_Training\EcommerceSolution\CatalogLib\bin\Debug\net8.0\CatalogLib.pdb
+C:\dotNet_Training\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNet_Training\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.AssemblyInfoInputs.cache
+C:\dotNet_Training\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.AssemblyInfo.cs
+C:\dotNet_Training\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.csproj.CoreCompileInputs.cache
+C:\dotNet_Training\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.dll
+C:\dotNet_Training\EcommerceSolution\CatalogLib\obj\Debug\net8.0\refint\CatalogLib.dll
+C:\dotNet_Training\EcommerceSolution\CatalogLib\obj\Debug\net8.0\CatalogLib.pdb
+C:\dotNet_Training\EcommerceSolution\CatalogLib\obj\Debug\net8.0\ref\CatalogLib.dll
