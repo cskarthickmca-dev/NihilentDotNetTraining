@@ -1,0 +1,12 @@
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\bin\Debug\net8.0\Entities.deps.json
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\bin\Debug\net8.0\Entities.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\bin\Debug\net8.0\Entities.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfoInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\Entities.AssemblyInfo.cs
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\Entities.csproj.CoreCompileInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\Entities.sourcelink.json
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\Entities.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\refint\Entities.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\Entities.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\Entities\obj\Debug\net8.0\ref\Entities.dll

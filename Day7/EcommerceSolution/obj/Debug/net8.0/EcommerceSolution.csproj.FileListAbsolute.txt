@@ -1,0 +1,8 @@
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\obj\Debug\net8.0\EcommerceSolution.csproj.AssemblyReference.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\obj\Debug\net8.0\EcommerceSolution.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\obj\Debug\net8.0\EcommerceSolution.AssemblyInfoInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\obj\Debug\net8.0\EcommerceSolution.AssemblyInfo.cs
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\obj\Debug\net8.0\EcommerceSolution.csproj.CoreCompileInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\obj\Debug\net8.0\EcommerceSolution.MvcApplicationPartsAssemblyInfo.cs
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\obj\Debug\net8.0\EcommerceSolution.MvcApplicationPartsAssemblyInfo.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day7\EcommerceSolution\obj\Debug\net8.0\EcommerceSolution.sourcelink.json
