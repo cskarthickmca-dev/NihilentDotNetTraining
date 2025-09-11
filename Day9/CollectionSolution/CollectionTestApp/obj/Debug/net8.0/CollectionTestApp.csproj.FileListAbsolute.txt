@@ -1,0 +1,15 @@
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.exe
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.deps.json
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.runtimeconfig.json
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\bin\Debug\net8.0\CollectionTestApp.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.AssemblyInfoInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.AssemblyInfo.cs
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.csproj.CoreCompileInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.sourcelink.json
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\refint\CollectionTestApp.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\CollectionTestApp.genruntimeconfig.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day9\CollectionSolution\CollectionTestApp\obj\Debug\net8.0\ref\CollectionTestApp.dll

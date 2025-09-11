@@ -78,7 +78,13 @@ foreach (var number in numbers)
     Console.WriteLine(number);
 }
 
-Array.Sort(fruits);
+Array.Reverse(numbers);
+Console.WriteLine("After Reverse...");
+foreach(var number in numbers){
+    Console.WriteLine(number);
+}
+
+//Array.Sort(fruits);
 Console.WriteLine("After Sorting");
 foreach (var fruit in fruits)
 {
@@ -101,9 +107,9 @@ foreach (var customer in customers)
 
 
 List<Customer> topCustomers = new List<Customer>();
-topCustomers.Add(new Customer(3, "Smith", 89));
-topCustomers.Add(new Customer(4, "Charan", 40));
-topCustomers.Add(new Customer(5, "Abhay", 25));
+topCustomers.Add(new Customer(3, "karthik", 8005));
+topCustomers.Add(new Customer(4, "george", 8006));
+topCustomers.Add(new Customer(5, "guru", 8007));
 
 Console.WriteLine("--------------------------------");
 
@@ -127,9 +133,9 @@ foreach (var customer in topCustomers)
 
 //Dictionary
 Dictionary<string, Customer> customersDirectory = new Dictionary<string, Customer>();
-customersDirectory.Add("9881735801", new Customer(1, "Alice", 56));
-customersDirectory.Add("9881735802", new Customer(2, "Bob", 30));
-customersDirectory.Add("9881735803", new Customer(3, "Charlie", 40));
+customersDirectory.Add("9881735801", new Customer(1, "karthik", 8005));
+customersDirectory.Add("9881735802", new Customer(2, "george", 8006));
+customersDirectory.Add("9881735803", new Customer(3, "guru", 8007));
 
 //Accessing Dictionary elements
 Console.WriteLine("Customer Directory:");
