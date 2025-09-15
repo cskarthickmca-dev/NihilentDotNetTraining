@@ -12,6 +12,8 @@ builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IProductRepository, ProductRepository>();
 builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IRegisterRepository, RegisterRepository>();
+builder.Services.AddScoped<IRegisterService, RegisterService>();
 //builder.Services.AddTransient<IProductService, ProductService>();
 //builder.Services.AddSinglton<IProductService, ProductService>();
 

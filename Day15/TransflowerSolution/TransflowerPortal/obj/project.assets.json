@@ -1,0 +1,134 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {
+      "CatalogEntities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "compile": {
+          "bin/placeholder/CatalogEntities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatalogEntities.dll": {}
+        }
+      },
+      "CatalogRepositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "CatalogEntities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CatalogRepositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatalogRepositories.dll": {}
+        }
+      },
+      "CatalogServices/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v9.0",
+        "dependencies": {
+          "CatalogRepositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CatalogServices.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CatalogServices.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CatalogEntities/1.0.0": {
+      "type": "project",
+      "path": "../CatalogEntities/CatalogEntities.csproj",
+      "msbuildProject": "../CatalogEntities/CatalogEntities.csproj"
+    },
+    "CatalogRepositories/1.0.0": {
+      "type": "project",
+      "path": "../CatalogRepositories/CatalogRepositories.csproj",
+      "msbuildProject": "../CatalogRepositories/CatalogRepositories.csproj"
+    },
+    "CatalogServices/1.0.0": {
+      "type": "project",
+      "path": "../CatalogServices/CatalogServices.csproj",
+      "msbuildProject": "../CatalogServices/CatalogServices.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "CatalogServices >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\karthikeyan.cs\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\dotNet_Training\\NihilentDotNetTraining\\Day15\\TransflowerSolution\\TransflowerPortal\\TransflowerPortal.csproj",
+      "projectName": "TransflowerPortal",
+      "projectPath": "C:\\dotNet_Training\\NihilentDotNetTraining\\Day15\\TransflowerSolution\\TransflowerPortal\\TransflowerPortal.csproj",
+      "packagesPath": "C:\\Users\\karthikeyan.cs\\.nuget\\packages\\",
+      "outputPath": "C:\\dotNet_Training\\NihilentDotNetTraining\\Day15\\TransflowerSolution\\TransflowerPortal\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\karthikeyan.cs\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {
+            "C:\\dotNet_Training\\NihilentDotNetTraining\\Day15\\TransflowerSolution\\CatalogServices\\CatalogServices.csproj": {
+              "projectPath": "C:\\dotNet_Training\\NihilentDotNetTraining\\Day15\\TransflowerSolution\\CatalogServices\\CatalogServices.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.300"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
