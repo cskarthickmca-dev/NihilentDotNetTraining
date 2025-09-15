@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TransflowerPortal/1.0.0": {
+        "dependencies": {
+          "CatalogServices": "1.0.0"
+        },
+        "runtime": {
+          "TransflowerPortal.dll": {}
+        }
+      },
+      "CatalogEntities/1.0.0": {
+        "runtime": {
+          "CatalogEntities.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CatalogRepositories/1.0.0": {
+        "dependencies": {
+          "CatalogEntities": "1.0.0"
+        },
+        "runtime": {
+          "CatalogRepositories.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CatalogServices/1.0.0": {
+        "dependencies": {
+          "CatalogRepositories": "1.0.0"
+        },
+        "runtime": {
+          "CatalogServices.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TransflowerPortal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatalogEntities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatalogRepositories/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CatalogServices/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

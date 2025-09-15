@@ -1,0 +1,16 @@
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\bin\Debug\net9.0\CatalogRepositories.deps.json
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\bin\Debug\net9.0\CatalogRepositories.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\bin\Debug\net9.0\CatalogRepositories.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\bin\Debug\net9.0\CatalogEntities.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\bin\Debug\net9.0\CatalogEntities.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogRepositories.csproj.AssemblyReference.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogRepositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogRepositories.AssemblyInfoInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogRepositories.AssemblyInfo.cs
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogRepositories.csproj.CoreCompileInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogRepositories.sourcelink.json
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogR.00EE188B.Up2Date
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogRepositories.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\refint\CatalogRepositories.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\CatalogRepositories.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day13\TransflowerSolution\CatalogRepositories\obj\Debug\net9.0\ref\CatalogRepositories.dll
