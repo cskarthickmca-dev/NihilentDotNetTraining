@@ -16,9 +16,14 @@ public static class JSONCatalogManager
         return Path.Combine(Directory.GetCurrentDirectory(), "Data", "products.json");
     }
 
+    private static string GetJsonFilePathForRegister()
+    {
+        return Path.Combine(Directory.GetCurrentDirectory(), "Data", "customers.json");
+    }
+
     public static IEnumerable<Product>? LoadProducts()
     {
-        string filePath = @"D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day15\TransflowerSolution\Data\products.json";
+        string filePath = @"C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\Data\products.json";
         var json = File.ReadAllText(filePath);
 
 
@@ -28,8 +33,25 @@ public static class JSONCatalogManager
 
     public static void SaveProducts(IEnumerable<Product> products)
     {
-        string filePath = @"D:\Ravi\TAP\TAP\dotnetnihilentngdev\Solutions\Day15\TransflowerSolution\Data\products.json";
+        string filePath = @"C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\Data\products.json";
         var json = JsonSerializer.Serialize(products);
+        File.WriteAllText(filePath, json);
+    }
+
+    public static IEnumerable<Register>? LoadUsers()
+    {
+        string filePath = @"C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\Data\customers.json";
+        var json = File.ReadAllText(filePath);
+
+
+        //var json = File.ReadAllText(GetJsonFilePath());
+        return JsonSerializer.Deserialize<IEnumerable<Register>>(json);
+    }
+
+    public static void SaveRegistrationData(IEnumerable<Register> register)
+    {
+        string filePath = @"C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\Data\customers.json";
+        var json = JsonSerializer.Serialize(register);
         File.WriteAllText(filePath, json);
     }
 }

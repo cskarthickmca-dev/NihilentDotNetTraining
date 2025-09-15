@@ -1,13 +1,11 @@
 [
     {
-        "Id": 1,
         "firstname": "Ravi",
         "lastname": "Tambade",
         "email": "ravi.tambade@transflower.in",
         "password": "seed"
     },
      {
-        "Id": 2,
         "firstname": "Shubhangi",
         "lastname": "Tambade",
         "email": "shubhangi.tambade@transflower.in",
@@ -15,7 +13,6 @@
     },
 
     {
-        "Id": 3,
         "firstname": "Sachin",
         "lastname": "Patil",
         "email": "sachin.patil@transflower.in",
@@ -23,7 +20,6 @@
     },
     
     {
-        "Id": 4,
         "firstname": "Arif",
         "lastname": "Tamboli",
         "email": "arif.tamboli@transflower.in",

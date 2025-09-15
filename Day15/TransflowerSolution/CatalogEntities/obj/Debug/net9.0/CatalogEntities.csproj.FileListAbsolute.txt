@@ -1,0 +1,12 @@
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\bin\Debug\net9.0\CatalogEntities.deps.json
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\bin\Debug\net9.0\CatalogEntities.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\bin\Debug\net9.0\CatalogEntities.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\CatalogEntities.GeneratedMSBuildEditorConfig.editorconfig
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\CatalogEntities.AssemblyInfoInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\CatalogEntities.AssemblyInfo.cs
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\CatalogEntities.csproj.CoreCompileInputs.cache
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\CatalogEntities.sourcelink.json
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\CatalogEntities.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\refint\CatalogEntities.dll
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\CatalogEntities.pdb
+C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\CatalogEntities\obj\Debug\net9.0\ref\CatalogEntities.dll
