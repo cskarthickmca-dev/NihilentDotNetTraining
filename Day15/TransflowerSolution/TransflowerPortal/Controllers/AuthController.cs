@@ -3,6 +3,7 @@ namespace TransflowerPortal.Controllers;
 
 using CatalogEntities;
 using CatalogServices;
+
 using Microsoft.AspNetCore.Mvc;
 
 //it provides enum, classes, interfaces,
@@ -52,7 +53,15 @@ public class AuthController : Controller
     [HttpPost]
      public IActionResult Register(string firstname, string lastname, string email, string password)
     {
-            return Redirect("/products/index");
+            List<Register> registerList = _registerService.GetAllUser().ToList();
+            Register reg = new Register();
+            reg.firstname = firstname;
+            reg.lastname = lastname;
+            reg.email = email;
+            reg.password = password;
+            registerList.add(reg);
+            _registerService.SaveRegistrationData(registerList);
+            return Redirect("/home/index");
     }
 
 }
