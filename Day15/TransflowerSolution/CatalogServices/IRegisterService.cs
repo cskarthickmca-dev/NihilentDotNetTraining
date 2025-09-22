@@ -9,4 +9,5 @@ public interface IRegisterService
     void AddUser(Register register);
     void UpdateUser(Register register);
     void DeleteUser(string email);
+    
 }

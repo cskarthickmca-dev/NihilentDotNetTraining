@@ -5,25 +5,22 @@
         "email": "ravi.tambade@transflower.in",
         "password": "seed"
     },
-     {
+    {
         "firstname": "Shubhangi",
         "lastname": "Tambade",
         "email": "shubhangi.tambade@transflower.in",
         "password": "seed"
     },
-
     {
         "firstname": "Sachin",
         "lastname": "Patil",
         "email": "sachin.patil@transflower.in",
         "password": "seed"
     },
-    
     {
         "firstname": "Arif",
         "lastname": "Tamboli",
         "email": "arif.tamboli@transflower.in",
         "password": "salam"
     }
-
 ]

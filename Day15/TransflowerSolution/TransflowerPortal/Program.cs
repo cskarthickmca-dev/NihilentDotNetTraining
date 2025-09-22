@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Authentication.Cookies;
 using CatalogRepositories;
 using CatalogServices; 
 
@@ -17,6 +18,12 @@ builder.Services.AddScoped<IRegisterService, RegisterService>();
 //builder.Services.AddTransient<IProductService, ProductService>();
 //builder.Services.AddSinglton<IProductService, ProductService>();
 
+builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationScheme) 
+.AddCookie(
+    options => { 
+    options.LoginPath = "/auth/login";
+    options.LogoutPath = "/auth/logout";
+});
 
 var app = builder.Build();
 

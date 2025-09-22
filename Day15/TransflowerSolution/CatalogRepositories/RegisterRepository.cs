@@ -28,7 +28,7 @@ public class RegisterRepository : IRegisterRepository
 
     public void UpdateUser(Register register)
     {
-        
+        Console.WriteLine("update user inside repository:::::"+register);
         List<Register> registers = GetAllUser().ToList();
         var existingUser = registers.FirstOrDefault(p => p.email == register.email);
         if (existingUser != null)
@@ -38,7 +38,10 @@ public class RegisterRepository : IRegisterRepository
             existingUser.email = register.email;
             existingUser.password = register.password;
             JSONCatalogManager.SaveRegistrationData(registers);
+        } else {
+            JSONCatalogManager.SaveRegistrationData(registers);
         }
+         
     }
 
     public void DeleteUser(string email)

@@ -48,8 +48,9 @@ public static class JSONCatalogManager
         return JsonSerializer.Deserialize<IEnumerable<Register>>(json);
     }
 
-    public static void SaveRegistrationData(IEnumerable<Register> register)
+    public static void SaveRegistrationData(List<Register> register)
     {
+        Console.WriteLine("update user insdie json catalog:::::"+register);
         string filePath = @"C:\dotNet_Training\NihilentDotNetTraining\Day15\TransflowerSolution\Data\customers.json";
         var json = JsonSerializer.Serialize(register);
         File.WriteAllText(filePath, json);

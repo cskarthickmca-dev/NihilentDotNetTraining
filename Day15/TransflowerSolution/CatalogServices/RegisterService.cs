@@ -17,8 +17,6 @@ public class RegisterService : IRegisterService
 
     public IEnumerable<Register> GetAllUser()
     {
-        
-
 
         // Do something with userId
         //file IO operations
@@ -37,6 +35,7 @@ public class RegisterService : IRegisterService
 
     public void UpdateUser(Register register)
     {
+        Console.WriteLine("register data "+register);
         _registerRepository.UpdateUser(register);
     }
 
